@@ -9,4 +9,7 @@ __maintainer__ = "Community"
 __email__ = "ecadav@gmail.com"
 __status__ = "Jr Python"
 
+import requests
+from bs4 import BeautifulSoup
+
 
