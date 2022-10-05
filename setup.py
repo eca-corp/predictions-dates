@@ -7,6 +7,6 @@ __licence__ = "GPL"
 __Version__ = "1.1.2"
 __maintainer__ = "Community"
 __email__ = "ecadav@gmail.com"
-__status__ == "Jr Python"
+__status__ = "Jr Python"
 
 
